@@ -64,3 +64,25 @@ While Dollar-Cost Averaging (DCA) remains a widely utilized approach, it may pro
 - The best strategies may be highlighted publicly, so polish your work accordingly.
 
 Let’s build something exceptional 🚀  
+
+---
+
+## 📅 Project Timeline
+
+| Date       | Milestone                    | Description                                      |
+|------------|------------------------------|--------------------------------------------------|
+| May 12     | Project Launch               | Onboard to Discord  |
+| May 13     | 1st Office Hour              | General QnA |
+| May 20     | 2nd Office Hour              | Onboard to GitHub Repo        |
+| May 27     | 3rd Office Hour              | tbd |
+| June 3     | 4th Office Hour              | tbd |
+| June 10    | 5th Office Hour              | tbd |
+| July 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
+| June 17    | 6th Office Hour              | tbd |
+| June 24    | 7th Office Hour              | tbd |
+| July 1     | 8th Office Hour              | tbd |
+| July 8     | 9th Office Hour              | tbd |
+| July 10    | **Educational Notebook Due** | A polished notebook summarizing all your work. |
+| July 15    | 10th Office Hour             | tbd |
+| July 18    | **Public Repo Launch**       | Private repos made public to showcase your work.  |
+| July 22    | Last Office Hour             | tbd |
