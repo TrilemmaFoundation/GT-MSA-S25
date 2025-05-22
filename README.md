@@ -77,7 +77,7 @@ Let’s build something exceptional 🚀
 | May 27     | 3rd Office Hour              | tbd |
 | June 3     | 4th Office Hour              | tbd |
 | June 10    | 5th Office Hour              | tbd |
-| July 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
+| June 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
 | June 17    | 6th Office Hour              | tbd |
 | June 24    | 7th Office Hour              | tbd |
 | July 1     | 8th Office Hour              | tbd |
