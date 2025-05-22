@@ -49,9 +49,9 @@ While Dollar-Cost Averaging (DCA) remains a widely utilized approach, it may pro
 ## 🛠️ Getting Started
 
 1. **Send us your GitHub username** so we can invite you to a GitHub Team with access to your private repo (`GT-MSA-S25-{team name}`).
-2. **Review the [Problem Statement notebook](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/1.%20Problem%20Statement.ipynb)** to understand the core motivation and objectives of the practicum.
+2. **Review the [Problem Statement notebook](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/1.%20Problem%20Statement.ipynb)** to understand the exact objectives of the challenge.
 3. **Use the [Data Retrieval notebook](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/2.%20Data%20Retrieval.ipynb)** to fetch and begin exploring the dataset.
-4. **Review the [Model Development notebook](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/3.%20Model%20Development%20Template.ipynb)** to use as a reference for structuring and benchmarking your own approach.
+4. **Review the [Model Development notebook](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/3.%20Model%20Development%20Template.ipynb)** to use as a reference for structuring and benchmarking your own model.
 5. **Check this repository regularly** as we will be updating it with new tutorials, resources, and guidance.
 
 ---
