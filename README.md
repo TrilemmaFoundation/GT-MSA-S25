@@ -71,10 +71,10 @@ Let’s build something exceptional 🚀
 
 | Date       | Milestone                    | Description                                      |
 |------------|------------------------------|--------------------------------------------------|
-| May 12     | Project Launch               | Onboard to Discord  |
+| May 12     | Project Launch               | Onboard to Discord |
 | May 13     | 1st Office Hour              | General QnA |
 | May 20     | 2nd Office Hour              | Onboard to GitHub Repo        |
-| May 27     | 3rd Office Hour              | tbd |
+| May 27     | 3rd Office Hour              | EDA QnA. Onboard to GitHub Repo! Initialize EDA notebook in your repos |
 | June 3     | 4th Office Hour              | tbd |
 | June 10    | 5th Office Hour              | tbd |
 | June 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
