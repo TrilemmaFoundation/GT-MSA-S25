@@ -1,0 +1,47 @@
+Field,Description,Units / Notes
+time,"End-of-day date (YYYY-MM-DD, 00:00 UTC inclusive)",date
+AdrActCnt,Unique addresses that sent or received value that day,addresses
+AdrBal1in100KCnt … AdrBal1in10BCnt,Address count whose balance ≥ current supply ÷ denominator (e.g. AdrBal1in100KCnt = ≥ 0.001 % supply),addresses
+AdrBalCnt,Addresses with non-zero balance,addresses
+AdrBalNtv0.001Cnt … AdrBalNtv100KCnt,Address count with balance ≥ X BTC (native units),addresses
+AdrBalUSD1Cnt … AdrBalUSD10MCnt,Address count with BTC balance worth ≥ X USD at EOD price,addresses
+AssetCompletionTime / AssetEODCompletionTime,Timestamps when CM finished processing intraday & EOD files; useful for data QA,datetime
+BlkCnt,Blocks mined,blocks
+BlkSizeMeanByte / BlkWghtMean / BlkWghtTot,"Mean block size (bytes), mean block weight, total block weight",bytes / weight
+CapAct1yrUSD,Realised cap of coins moved ≤ 1 year ago (“active 1 yr”),USD
+CapMVRVCur / CapMVRVFF,MVRV ratios using current or free-float supply,dimensionless
+CapMrktCurUSD / CapMrktEstUSD / CapMrktFFUSD,"Current, estimated and free-float market cap",USD
+CapRealUSD,Realised capitalisation (sum of UTXO cost basis),USD
+DiffLast / DiffMean,Difficulty of last block and mean difficulty that day,dimensionless
+FeeByteMeanNtv,Mean fee per byte,BTC/byte
+FeeMeanNtv / FeeMeanUSD / FeeMedNtv / FeeMedUSD,Mean & median tx fee,BTC / USD
+FeeTotNtv / FeeTotUSD,Aggregate fees paid in blockspace,BTC / USD
+FlowInExNtv / FlowInExUSD,Native/fiat value flowing into exchange-tagged addresses,BTC / USD
+FlowOutExNtv / FlowOutExUSD,Value flowing out of exchanges,BTC / USD
+FlowTfrFromExCnt,Count of transfers initiated by exchange addresses,transfers
+HashRate / HashRate30d,"Estimated PoW hash-rate (daily, 30-day MA)",TH/s
+IssContNtv / IssContUSD,Newly-minted BTC (block subsidy) and its USD value,BTC / USD
+IssContPctDay / IssContPctAnn,Daily & annualised on-chain inflation rates,%
+IssTotNtv / IssTotUSD,Cumulative issued supply (native / USD),BTC / USD
+NDF,Network Distribution Factor — share of supply held by addresses ≥ 0.01 % of supply,dimensionless
+NVTAdj / NVTAdj90 / NVTAdjFF / NVTAdjFF90,"Network-value-to-(adjusted) transfer-value ratios (single-day & 90-day, total/free-float)",dimensionless
+PriceBTC / PriceUSD,BTC price in BTC (=1) and USD (Coin Metrics reference),BTC / USD
+ROI1yr / ROI30d,1-year & 30-day unlevered return on investment,%
+"ReferenceRate, ReferenceRateETH, ReferenceRateEUR, ReferenceRateUSD","CM hourly reference rates (snapshotted EOD) vs BTC, ETH, EUR, USD",unit varies
+RevAllTimeUSD,Aggregate miner revenue since genesis,USD
+RevHashNtv / RevHashRateNtv / RevHashRateUSD / RevHashUSD,Miner revenue per hash or per TH,BTC / BTC/TH / USD/TH / USD
+RevNtv / RevUSD,Daily total miner revenue (subsidy + fees),BTC / USD
+SER,Supply Equality Ratio — supply held by “poorest” addresses (< 0.00001 % supply) ÷ supply held by richest 1 %,dimensionless
+"SplyAct1d … SplyAct10yr, SplyActEver",BTC that moved within given look-back window; Ever = cumulative unique supply ever spent,BTC
+SplyActPct1yr,% of circulating supply active in last 365 days,%
+SplyCur / SplyExpFut10yr / SplyFF,"Circulating, projected (10 y) and free-float supply",BTC
+SplyAdrBal…,"Same thresholds as AdrBal… but measured in BTC held, not address count",BTC / USD
+"SplyMiner0HopAllNtv / USD, SplyMiner1HopAllNtv / USD",BTC (and USD value) still held by miner wallets (0-hop) or miner + 1-hop wallets,BTC / USD
+SplyAdrTop100 / Top10Pct / Top1Pct,Supply held by top entities (rank or percentile),BTC
+TxCnt / TxCntSec,"Count of transactions, and average TPS",tx / tx·s⁻¹
+TxTfrCnt,Value-transferring outputs (CM “transfer” heuristic),transfers
+TxTfrValAdjNtv / USD,Adjusted transfer value (ex-self-change & known jitter),BTC / USD
+"TxTfrValMeanNtv / USD, TxTfrValMedNtv / USD",Mean & median adjusted transfer sizes,BTC / USD
+VelCur1yr,Coin velocity using trailing-year adjusted transfer volume,1/yr
+VtyDayRet180d / VtyDayRet30d,"Realised volatility of daily log-returns (180-d, 30-d)",%
+principal_market_price_usd / principal_market_usd,Price and notional of CM-selected “principal” BTC market at EOD,USD
