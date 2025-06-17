@@ -75,8 +75,8 @@ Let’s build something exceptional 🚀
 | May 13     | 1st Office Hour              | General QnA |
 | May 20     | 2nd Office Hour              | Onboard to GitHub Repo        |
 | May 27     | 3rd Office Hour              | EDA QnA. Onboard to GitHub Repo! Initialize EDA notebook in your repos |
-| June 3     | 4th Office Hour              | tbd |
-| June 10    | 5th Office Hour              | tbd |
+| June 3     | 4th Office Hour              | EDA QnA. EDA deliverable outline + evaluation rubric posted |
+| June 10    | 5th Office Hour              | EDA QnA |
 | June 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
 | June 17    | 6th Office Hour              | tbd |
 | June 24    | 7th Office Hour              | tbd |
