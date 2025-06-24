@@ -18,17 +18,12 @@ While Dollar-Cost Averaging (DCA) remains a widely utilized approach, it may pro
 ### 1. Exploratory Data Analysis (EDA) (Deadline: **June 12**)
 - **Purpose**: Identify and evaluate features for smart accumulation strategies.
 - **Goal**: Visualize data and extract **non-trivial insights** that could inform model design.
-- **Deliverable**: A Jupyter notebook showcasing your EDA with compelling visualizations and commentary.
+- [**Deliverable**](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/EDA%20Outline.ipynb): A Jupyter notebook showcasing your EDA with compelling visualizations and commentary.
 
-### 2. Model Code
-- **Purpose**: Create a strategy that leverages the provided data to outperform DCA on a backtest. 
-- **Goal**: Beat the **200-Day Moving Average (200D MA)** baseline in terms of average SPD. 
-- **Deliverable**: A modular and reproducible model notebook or script.
-
-### 3. Educational Notebook (Deadline: **July 10**)
+### 2. Final Educational Notebook (Deadline: **July 10**)
 - **Purpose**: Explain your strategy to a non-technical audience.
 - **Goal**: Visualize and narrate your strategy's logic and results as if teaching a curious layperson.
-- **Deliverable**: A polished notebook with plots and explanations.
+- [**Deliverable**](https://github.com/TrilemmaFoundation/GT-MSA-S25/blob/main/Final%20Educational%20Notebook%20Outline.ipynb): A comprehensive notebook presenting your model and the EDA that derived it. 
 
 ---
 
