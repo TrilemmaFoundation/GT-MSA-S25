@@ -78,11 +78,11 @@ Let’s build something exceptional 🚀
 | June 3     | 4th Office Hour              | EDA QnA. EDA deliverable outline + evaluation rubric posted |
 | June 10    | 5th Office Hour              | EDA QnA |
 | June 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
-| June 17    | 6th Office Hour              | tbd |
-| June 24    | 7th Office Hour              | tbd |
+| June 17    | 6th Office Hour              | EDA QnA. Model development QnA. |
+| June 24    | 7th Office Hour              | Final deliverable outline released. |
 | July 1     | 8th Office Hour              | tbd |
 | July 8     | 9th Office Hour              | tbd |
-| July 10    | **Educational Notebook Due** | A polished notebook summarizing all your work. |
-| July 15    | 10th Office Hour             | tbd |
-| July 18    | **Public Repo Launch**       | Private repos made public to showcase your work.  |
-| July 22    | Last Office Hour             | tbd |
+| July 10    | **Final Educational Notebook Due** | A polished notebook summarizing all your work. |
+| July 15    | 10th Office Hour             | Final notebook revisions |
+| July 18    | **Public Repo Launch**       | Private repos made public to showcase your work. Final notebook revisions |
+| July 22    | Last Office Hour             | Final notebook revisions |
