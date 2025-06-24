@@ -73,7 +73,7 @@ Let’s build something exceptional 🚀
 | June 3     | 4th Office Hour              | EDA QnA. EDA deliverable outline + evaluation rubric posted |
 | June 10    | 5th Office Hour              | EDA QnA |
 | June 12    | **EDA Notebook Due**         | Exploratory data analysis that will drive your model. |
-| June 17    | 6th Office Hour              | EDA QnA. Model development QnA. |
+| June 17    | 6th Office Hour              | EDA review posted. EDA QnA. Model development QnA. |
 | June 24    | 7th Office Hour              | Final deliverable outline + evaluation rubric posted. |
 | July 1     | 8th Office Hour              | tbd |
 | July 8     | 9th Office Hour              | tbd |
