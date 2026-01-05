@@ -11,11 +11,9 @@ Welcome to the official practicum repository. This project challenged students t
 
 [Read more on LinkedIn](https://www.linkedin.com/posts/trilemma-foundation_bitcoin-activity-7355616790770565120-NsMg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQFpH8BR9a1EzxzZxHP_KzeiQkSrwS56YY)
 
----
+### Collection of Work
 
-## Collection of Work
-
-Explore the team repos below. 
+Explore the team repos below: 
 
 1. [GT-MSA-S25-Trilemma-Team-14](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-14)
 2. [GT-MSA-S25-Trilemma-Team-6](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-6)
@@ -39,7 +37,6 @@ Explore the team repos below.
 20. [GT-MSA-S25-Trilemma-Team-25](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-25)
 
 ---
-
 
 ## 🔍 Why: Problem Statement
 
