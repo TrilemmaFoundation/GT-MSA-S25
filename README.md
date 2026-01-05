@@ -1,9 +1,45 @@
 # Improving Bitcoin Accumulation Strategies  
 Georgia Tech MSA Summer 2025 Practicum
 
-Welcome to the official practicum repository. This project challenges students to go beyond Dollar-Cost Averaging (DCA) and build data-driven models for optimizing Bitcoin accumulation.
+Welcome to the official practicum repository. This project challenged students to go beyond Dollar Cost Averaging (DCA) and build data driven models for optimizing Bitcoin accumulation.
 
 ---
+
+## Overview
+
+![Georgia Tech Practicum Overview](georgia_tech_models_scatter_plot.png)
+
+[Read more on LinkedIn](https://www.linkedin.com/posts/trilemma-foundation_bitcoin-activity-7355616790770565120-NsMg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQFpH8BR9a1EzxzZxHP_KzeiQkSrwS56YY)
+
+---
+
+## Collection of Work
+
+Explore the team repos below. 
+
+1. [GT-MSA-S25-Trilemma-Team-14](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-14)
+2. [GT-MSA-S25-Trilemma-Team-6](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-6)
+3. [GT-MSA-S25-Team-3](https://github.com/TrilemmaFoundation/GT-MSA-S25-Team-3)
+4. [GT-MSA-S25-Trilemma-Team-23](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-23)
+5. [GT-MSA-S25-Trilemma-Team-19](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-19)
+6. [GT-MSA-S25-Team-5](https://github.com/TrilemmaFoundation/GT-MSA-S25-Team-5)
+7. [GT-MSA-S25-Trilemma-Team-11](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-11)
+8. [GT-MSA-S25-Team-1](https://github.com/TrilemmaFoundation/GT-MSA-S25-Team-1)
+9. [GT-MSA-S25-Team-2](https://github.com/TrilemmaFoundation/GT-MSA-S25-Team-2)
+10. [GT-MSA-S25-Trilemma-Team-7](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-7)
+11. [GT-MSA-S25-Trilemma-Team-2](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-2)
+12. [GT-MSA-S25-Trilemma-Team-18](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-18)
+13. [GT-MSA-S25-Trilemma-Team-15](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-15)
+14. [GT-MSA-S25-Trilemma-Team-10](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-10)
+15. [GT-MSA-S25-Trilemma-Team-4](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-4)
+16. [GT-MSA-S25-Trilemma-Team-12](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-12)
+17. [GT-MSA-S25-Trilemma-Team-8](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-8)
+18. [GT-MSA-S25-Trilemma-Team-22](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-22)
+19. [GT-MSA-S25-Team-16](https://github.com/TrilemmaFoundation/GT-MSA-S25-Team-16)
+20. [GT-MSA-S25-Trilemma-Team-25](https://github.com/TrilemmaFoundation/GT-MSA-S25-Trilemma-Team-25)
+
+---
+
 
 ## 🔍 Why: Problem Statement
 
